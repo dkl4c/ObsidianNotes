@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"def-node","type":"file","file":"无穷级数/正项级数/定义.md","x":-320,"y":-340,"width":400,"height":440},
+		{"id":"basis-node","type":"file","file":"无穷级数/正项级数/常用基准级数.md","x":-1040,"y":-600,"width":400,"height":680},
+		{"id":"int-node","type":"file","file":"无穷级数/正项级数/积分判别法.md","x":1480,"y":460,"width":400,"height":320},
+		{"id":"comp-node","type":"file","file":"无穷级数/正项级数/比较法.md","x":-280,"y":300,"width":400,"height":620},
+		{"id":"raabe-node","type":"file","file":"无穷级数/正项级数/Raabe判别法.md","x":860,"y":360,"width":400,"height":360},
+		{"id":"ratio-node","type":"file","file":"无穷级数/正项级数/比值与根值法.md","x":280,"y":240,"width":400,"height":600},
+		{"id":"rel-node","type":"file","file":"无穷级数/正项级数/判别法关系图.md","x":170,"y":1080,"width":1020,"height":860},
+		{"id":"div-node","type":"file","file":"无穷级数/正项级数/发散判定.md","x":-840,"y":300,"width":400,"height":310}
+	],
+	"edges":[
+		{"id":"def-to-comp","fromNode":"def-node","fromSide":"bottom","toNode":"comp-node","toSide":"top"},
+		{"id":"88e7b54115e4e565","fromNode":"ratio-node","fromSide":"right","toNode":"raabe-node","toSide":"left"},
+		{"id":"f2915c7504262f69","fromNode":"comp-node","fromSide":"right","toNode":"ratio-node","toSide":"left"},
+		{"id":"0fc95a1628124d04","fromNode":"rel-node","fromSide":"top","toNode":"comp-node","toSide":"bottom"},
+		{"id":"05710572b155185d","fromNode":"rel-node","fromSide":"top","toNode":"ratio-node","toSide":"bottom"},
+		{"id":"f5e5aaffc9b64247","fromNode":"rel-node","fromSide":"top","toNode":"raabe-node","toSide":"bottom"},
+		{"id":"94182bf6b651e0cb","fromNode":"rel-node","fromSide":"top","toNode":"int-node","toSide":"bottom"},
+		{"id":"6a99356562fee4e7","fromNode":"raabe-node","fromSide":"right","toNode":"int-node","toSide":"left"},
+		{"id":"949f0fa827661a37","fromNode":"def-node","fromSide":"bottom","toNode":"div-node","toSide":"top"},
+		{"id":"da5e91bcabf0907a","fromNode":"def-node","fromSide":"left","toNode":"basis-node","toSide":"right"}
+	]
+}

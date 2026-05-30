@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "dc8a7310dad217af",
+    "type": "split",
+    "children": [
+      {
+        "id": "254667a9d999c29c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8ab13917ac785b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电磁学/电极化强度和磁化强度相关的理论推导.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "电极化强度和磁化强度相关的理论推导"
+            },
+            "group": "e987634b5a2098de"
+          }
+        ]
+      },
+      {
+        "id": "eb7b1ff34cb43d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c971e6eb10eb1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电磁学/电极化强度和磁化强度相关的理论推导.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "电极化强度和磁化强度相关的理论推导"
+            },
+            "group": "e987634b5a2098de"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7058fee57802987b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e02cf8a740c5068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf4ada5fd17bf9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "95e3a77614dc7bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6acd1a0ef4f9a9a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "6a947515ed122136",
+    "type": "split",
+    "children": [
+      {
+        "id": "efeeb918f5352045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e2636849ff263e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "8cf6e353216babe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电磁学/电极化强度和磁化强度相关的理论推导.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "电极化强度和磁化强度相关的理论推导 的出链列表"
+            }
+          },
+          {
+            "id": "025003b9ad504a01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8e80e31401e3d62f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "da86d58662e2d80c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "6c971e6eb10eb1bf",
+  "lastOpenFiles": [
+    "电磁学/电磁学.md",
+    "电磁学/电极化强度和磁化强度相关的理论推导.md",
+    "Pasted image 20260530215024.png",
+    "电磁学/作业/5、6章.md",
+    "Pasted image 20260530193945.png",
+    "Pasted image 20260530193547.png",
+    "Pasted image 20260530192515.png",
+    "Pasted image 20260530190350.png",
+    "Pasted image 20260530183954.png",
+    "电磁学/磁相关.md",
+    "未命名",
+    "电磁学/作业",
+    "线性代数/矩阵的运算/正交矩阵.md",
+    "电磁学",
+    "线性代数/矩阵的运算/矩阵的分块.md",
+    "线性代数/矩阵的运算/未命名",
+    "线性代数/矩阵的运算/可逆矩阵.md",
+    "线性代数/矩阵的运算/矩阵乘积的秩和行列式.md",
+    "线性代数/矩阵的运算/特殊矩阵.md",
+    "线性代数/矩阵的运算/矩阵的加法、数乘和乘法.md",
+    "线性代数/线性代数.md",
+    "线性代数/矩阵的运算",
+    "线性代数",
+    "体育理论课.md",
+    "无穷级数.canvas",
+    "无穷级数/无穷级数.md",
+    "第十章 无穷级数.md",
+    "无穷级数/函数项级数/幂级数.canvas",
+    "无穷级数/函数项级数.canvas",
+    "无穷级数/函数项级数/一致收敛的发散判定.md",
+    "无穷级数/任意项级数.canvas",
+    "无穷级数/正项级数.canvas",
+    "无穷级数/函数项级数/幂级数/泰勒级数.canvas",
+    "无穷级数/任意项级数/柯西乘积.md",
+    "无穷级数/任意项级数/阿贝尔变换.md",
+    "无穷级数/函数项级数/幂级数/展开的注意与判定.md",
+    "无穷级数/函数项级数/幂级数/常见展开式.md",
+    "无穷级数/函数项级数/幂级数/泰勒展开的条件.md",
+    "无穷级数/函数项级数/幂级数/运算性质.md",
+    "无穷级数/函数项级数/幂级数/收敛区间.md",
+    "无穷级数/函数项级数/幂级数/收敛半径.md",
+    "无穷级数/函数项级数/一致有界.md",
+    "无穷级数/函数项级数/幂级数/泰勒级数.md",
+    "无穷级数/函数项级数/一致收敛.md",
+    "正项级数.canvas",
+    "无穷级数/正项级数",
+    "无穷级数/函数项级数/幂级数",
+    "无穷级数/函数项级数",
+    "无穷级数/任意项级数",
+    "发散判定.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"taylor-node","type":"file","file":"无穷级数/函数项级数/幂级数/泰勒级数.md","x":-520,"y":-200,"width":600,"height":460},
+		{"id":"cond-node","type":"file","file":"无穷级数/函数项级数/幂级数/泰勒展开的条件.md","x":-1360,"y":160,"width":760,"height":560},
+		{"id":"common-node","type":"file","file":"无穷级数/函数项级数/幂级数/常见展开式.md","x":280,"y":-200,"width":880,"height":610},
+		{"id":"warn-node","type":"file","file":"无穷级数/函数项级数/幂级数/展开的注意与判定.md","x":-440,"y":600,"width":720,"height":540}
+	],
+	"edges":[
+		{"id":"taylor-to-cond","fromNode":"taylor-node","fromSide":"left","toNode":"cond-node","toSide":"top"},
+		{"id":"taylor-to-common","fromNode":"taylor-node","fromSide":"right","toNode":"common-node","toSide":"left"},
+		{"id":"taylor-to-warn","fromNode":"cond-node","fromSide":"right","toNode":"warn-node","toSide":"top"}
+	]
+}
