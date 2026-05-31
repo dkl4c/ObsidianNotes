@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/电极化强度和磁化强度相关的理论推导.md",
+                "file": "电磁学/电磁感应.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,9 +28,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电极化强度和磁化强度相关的理论推导"
+              "title": "电磁感应"
             },
-            "group": "e987634b5a2098de"
+            "group": "e5167c691a13dfad"
           }
         ]
       },
@@ -39,12 +39,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c971e6eb10eb1bf",
+            "id": "1a572568718a4060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/电极化强度和磁化强度相关的理论推导.md",
+                "file": "电磁学/电磁感应.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -59,9 +59,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电极化强度和磁化强度相关的理论推导"
+              "title": "电磁感应"
             },
-            "group": "e987634b5a2098de"
+            "group": "e5167c691a13dfad"
           }
         ]
       }
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "6a947515ed122136",
@@ -228,21 +227,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c971e6eb10eb1bf",
+  "active": "1a572568718a4060",
   "lastOpenFiles": [
+    "电磁学/电磁感应.md",
+    "电磁学/电极化强度和磁化强度相关的理论推导.md",
+    "电磁学/电磁场的一些便于解题的性质.md",
+    "电磁学/电磁学.md",
+    "电磁学/作业/5、6章.md",
+    "Pasted image 20260530183954.png",
+    "Pasted image 20260530190350.png",
+    "无穷级数.canvas",
+    "无穷级数/正项级数.canvas",
+    "无穷级数/无穷级数.md",
+    "无穷级数/函数项级数.canvas",
+    "电磁学/磁相关.md",
     "Pasted image 20260531005549.png",
     "Pasted image 20260531005453.png",
     "Pasted image 20260531001823.png",
-    "电磁学/电磁学.md",
-    "电磁学/电极化强度和磁化强度相关的理论推导.md",
     "Pasted image 20260530215024.png",
-    "电磁学/作业/5、6章.md",
     "Pasted image 20260530193945.png",
     "Pasted image 20260530193547.png",
     "Pasted image 20260530192515.png",
-    "Pasted image 20260530190350.png",
-    "Pasted image 20260530183954.png",
-    "电磁学/磁相关.md",
     "未命名",
     "电磁学/作业",
     "线性代数/矩阵的运算/正交矩阵.md",
@@ -257,14 +262,10 @@
     "线性代数/矩阵的运算",
     "线性代数",
     "体育理论课.md",
-    "无穷级数.canvas",
-    "无穷级数/无穷级数.md",
     "第十章 无穷级数.md",
     "无穷级数/函数项级数/幂级数.canvas",
-    "无穷级数/函数项级数.canvas",
     "无穷级数/函数项级数/一致收敛的发散判定.md",
     "无穷级数/任意项级数.canvas",
-    "无穷级数/正项级数.canvas",
     "无穷级数/函数项级数/幂级数/泰勒级数.canvas",
     "无穷级数/任意项级数/柯西乘积.md",
     "无穷级数/任意项级数/阿贝尔变换.md",
@@ -275,7 +276,6 @@
     "无穷级数/函数项级数/幂级数/收敛区间.md",
     "无穷级数/函数项级数/幂级数/收敛半径.md",
     "无穷级数/函数项级数/一致有界.md",
-    "无穷级数/函数项级数/幂级数/泰勒级数.md",
     "正项级数.canvas",
     "无穷级数/正项级数",
     "无穷级数/函数项级数/幂级数",
