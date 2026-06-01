@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "254667a9d999c29c",
+        "id": "64ddc8cd417389d1",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8ab13917ac785b",
+            "id": "abd4f29e02db846f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,16 +30,16 @@
               "icon": "lucide-file",
               "title": "电容"
             },
-            "group": "e987634b5a2098de"
+            "group": "33e4dc41fbe2e6f5"
           }
         ]
       },
       {
-        "id": "eb7b1ff34cb43d1e",
+        "id": "af8e93014a301342",
         "type": "tabs",
         "children": [
           {
-            "id": "6c971e6eb10eb1bf",
+            "id": "21a9ad74c7d37e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +61,7 @@
               "icon": "lucide-file",
               "title": "电容"
             },
-            "group": "e987634b5a2098de"
+            "group": "33e4dc41fbe2e6f5"
           }
         ]
       }
@@ -227,14 +227,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6c971e6eb10eb1bf",
+  "active": "21a9ad74c7d37e67",
   "lastOpenFiles": [
+    "电磁学/电极化强度和磁化强度相关的理论推导.md",
     "电磁学/导体.md",
+    "电磁学/电场的能量和能量密度.md",
     "电磁学/电容.md",
-    "电磁学/电场的能量.md",
+    "电磁学/电容的能量.md",
+    "电磁学/带电体的能量.md",
     "电磁学/电磁学的一些结论和例题推导/电偶极子在空间中的场强.md",
     "电磁学/电磁学的一些结论和例题推导/几种常见带电体的电场.md",
-    "电磁学/电极化强度和磁化强度相关的理论推导.md",
     "Pasted image 20260601182544.png",
     "电磁学/电磁学的一些结论和例题推导/电偶极子在电场中的受力.md",
     "电磁学/磁相关.md",
@@ -273,8 +275,6 @@
     "无穷级数/正项级数.canvas",
     "无穷级数/函数项级数/幂级数/泰勒级数.canvas",
     "无穷级数/任意项级数/柯西乘积.md",
-    "无穷级数/任意项级数/阿贝尔变换.md",
-    "无穷级数/函数项级数/幂级数/展开的注意与判定.md",
     "正项级数.canvas",
     "无穷级数/正项级数",
     "无穷级数/函数项级数/幂级数",
