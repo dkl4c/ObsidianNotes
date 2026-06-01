@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/电场的能量.md",
+                "file": "电磁学/电容.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电场的能量"
+              "title": "电容"
             },
             "group": "e987634b5a2098de"
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/电场的能量.md",
+                "file": "电磁学/电容.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电场的能量"
+              "title": "电容"
             },
             "group": "e987634b5a2098de"
           }
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电磁学/电场的能量.md",
+                "file": "电磁学/电容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "电场的能量 的出链列表"
+              "title": "电容 的出链列表"
             }
           },
           {
@@ -229,16 +229,18 @@
   },
   "active": "6c971e6eb10eb1bf",
   "lastOpenFiles": [
-    "Pasted image 20260601182544.png",
-    "电磁学/电磁学的一些结论和例题推导/几种常见带电体的电场.md",
+    "电磁学/导体.md",
+    "电磁学/电容.md",
     "电磁学/电场的能量.md",
     "电磁学/电磁学的一些结论和例题推导/电偶极子在空间中的场强.md",
+    "电磁学/电磁学的一些结论和例题推导/几种常见带电体的电场.md",
+    "电磁学/电极化强度和磁化强度相关的理论推导.md",
+    "Pasted image 20260601182544.png",
     "电磁学/电磁学的一些结论和例题推导/电偶极子在电场中的受力.md",
     "电磁学/磁相关.md",
     "电磁学/电磁学.md",
     "电磁学/电磁感应.md",
     "电磁学/电磁场的一些便于解题的性质.md",
-    "电磁学/电极化强度和磁化强度相关的理论推导.md",
     "电磁学/电磁学的一些结论和例题推导",
     "Pasted image 20260530215024.png",
     "电磁学/作业/5、6章.md",
@@ -273,7 +275,6 @@
     "无穷级数/任意项级数/柯西乘积.md",
     "无穷级数/任意项级数/阿贝尔变换.md",
     "无穷级数/函数项级数/幂级数/展开的注意与判定.md",
-    "无穷级数/函数项级数/幂级数/常见展开式.md",
     "正项级数.canvas",
     "无穷级数/正项级数",
     "无穷级数/函数项级数/幂级数",
