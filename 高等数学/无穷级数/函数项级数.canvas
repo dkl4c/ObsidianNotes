@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"dom-node","type":"file","file":"高等数学/无穷级数/函数项级数/收敛域.md","x":-1180,"y":-880,"width":620,"height":520},
+		{"id":"seq-node","type":"file","file":"高等数学/无穷级数/函数项级数/函数列与极限函数.md","x":-1270,"y":-200,"width":400,"height":480},
+		{"id":"prop-node","type":"file","file":"高等数学/无穷级数/函数项级数/一致收敛的性质.md","x":-120,"y":800,"width":720,"height":1120},
+		{"id":"idx-node","type":"file","file":"高等数学/无穷级数/函数项级数/函数项级数.md","x":-560,"y":-300,"width":400,"height":580},
+		{"id":"pw-node","type":"file","file":"高等数学/无穷级数/函数项级数/幂级数/幂级数.md","x":-60,"y":-940,"width":600,"height":640},
+		{"id":"38d1303ef4cdcbb9","x":820,"y":-860,"width":400,"height":400,"type":"file","file":"高等数学/无穷级数/函数项级数/幂级数.canvas"},
+		{"id":"test-node","type":"file","file":"高等数学/无穷级数/函数项级数/一致收敛的判别法.md","x":-60,"y":-30,"width":720,"height":620},
+		{"id":"fac74d082e73896e","type":"file","file":"高等数学/无穷级数/函数项级数/一致有界.md","x":-1320,"y":440,"width":400,"height":300},
+		{"id":"aa5845ea7eb53d59","x":-1400,"y":950,"width":560,"height":520,"type":"file","file":"高等数学/无穷级数/函数项级数/一致收敛的发散判定.md"},
+		{"id":"uni-node","type":"file","file":"高等数学/无穷级数/函数项级数/一致收敛.md","x":-760,"y":370,"width":520,"height":550}
+	],
+	"edges":[
+		{"id":"idx-to-test","fromNode":"uni-node","fromSide":"right","toNode":"test-node","toSide":"left"},
+		{"id":"f688fc7534521c38","fromNode":"uni-node","fromSide":"left","toNode":"fac74d082e73896e","toSide":"right"},
+		{"id":"bada776d5cd78be8","fromNode":"seq-node","fromSide":"top","toNode":"dom-node","toSide":"bottom"},
+		{"id":"5776c2fc67cb6b08","fromNode":"idx-node","fromSide":"bottom","toNode":"uni-node","toSide":"top"},
+		{"id":"5f061c0dc604d27b","fromNode":"idx-node","fromSide":"right","toNode":"pw-node","toSide":"left"},
+		{"id":"914ae561a7167369","fromNode":"uni-node","fromSide":"bottom","toNode":"prop-node","toSide":"left"},
+		{"id":"919936ee71a1be59","fromNode":"idx-node","fromSide":"left","toNode":"seq-node","toSide":"right"},
+		{"id":"e0efd6259dc6536a","fromNode":"seq-node","fromSide":"bottom","toNode":"uni-node","toSide":"top"},
+		{"id":"a6917e03eaff1ffa","fromNode":"pw-node","fromSide":"right","toNode":"38d1303ef4cdcbb9","toSide":"left"},
+		{"id":"a8fcc06dee8a1cda","fromNode":"uni-node","fromSide":"bottom","toNode":"aa5845ea7eb53d59","toSide":"right"}
+	]
+}

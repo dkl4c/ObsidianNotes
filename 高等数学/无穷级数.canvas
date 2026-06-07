@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"pos-node","type":"file","file":"高等数学/无穷级数/正项级数/正项级数.md","x":-980,"y":360,"width":500,"height":640},
+		{"id":"alt-canvas","type":"file","file":"高等数学/无穷级数/任意项级数.canvas","x":-320,"y":1080,"width":400,"height":200},
+		{"id":"fn-canvas","type":"file","file":"高等数学/无穷级数/函数项级数.canvas","x":340,"y":1080,"width":400,"height":200},
+		{"id":"basic-node","type":"file","file":"高等数学/无穷级数/无穷级数.md","x":-420,"y":-300,"width":600,"height":500},
+		{"id":"alt-node","type":"file","file":"高等数学/无穷级数/任意项级数/任意项级数.md","x":-370,"y":360,"width":500,"height":580},
+		{"id":"fn-node","type":"file","file":"高等数学/无穷级数/函数项级数/函数项级数.md","x":280,"y":360,"width":460,"height":580},
+		{"id":"pos-canvas","type":"file","file":"高等数学/无穷级数/正项级数.canvas","x":-980,"y":1080,"width":400,"height":200}
+	],
+	"edges":[
+		{"id":"root-to-pos","fromNode":"basic-node","fromSide":"bottom","toNode":"pos-node","toSide":"top"},
+		{"id":"basic-to-alt","fromNode":"basic-node","fromSide":"bottom","toNode":"alt-node","toSide":"top"},
+		{"id":"basic-to-fn","fromNode":"basic-node","fromSide":"bottom","toNode":"fn-node","toSide":"top"},
+		{"id":"pos-to-canvas","fromNode":"pos-node","fromSide":"bottom","toNode":"pos-canvas","toSide":"top"},
+		{"id":"alt-to-canvas","fromNode":"alt-node","fromSide":"bottom","toNode":"alt-canvas","toSide":"top"},
+		{"id":"fn-to-canvas","fromNode":"fn-node","fromSide":"bottom","toNode":"fn-canvas","toSide":"top"}
+	]
+}

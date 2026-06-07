@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a883e8406f5f6411","type":"group","x":-1200,"y":-840,"width":1120,"height":480,"label":"扩充知识"},
+		{"id":"dir-node","type":"file","file":"高等数学/无穷级数/任意项级数/狄利克雷判别法.md","x":-400,"y":360,"width":400,"height":480},
+		{"id":"abs-node","type":"file","file":"高等数学/无穷级数/任意项级数/绝对收敛与条件收敛.md","x":-880,"y":40,"width":400,"height":640},
+		{"id":"abel-node","type":"file","file":"高等数学/无穷级数/任意项级数/阿贝尔判别法.md","x":80,"y":310,"width":400,"height":580},
+		{"id":"atrans-node","type":"file","file":"高等数学/无穷级数/任意项级数/阿贝尔变换.md","x":-1160,"y":-800,"width":520,"height":400},
+		{"id":"cprod-node","type":"file","file":"高等数学/无穷级数/任意项级数/柯西乘积.md","x":-600,"y":-800,"width":480,"height":400},
+		{"id":"alt-node","type":"file","file":"高等数学/无穷级数/任意项级数/交错级数.md","x":220,"y":-420,"width":480,"height":580},
+		{"id":"idx-node","type":"file","file":"高等数学/无穷级数/任意项级数/任意项级数.md","x":-320,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"idx-to-abs","fromNode":"idx-node","fromSide":"left","toNode":"abs-node","toSide":"top"},
+		{"id":"dir-to-abel","fromNode":"dir-node","fromSide":"right","toNode":"abel-node","toSide":"left","toEnd":"none"},
+		{"id":"ab11d7b1d56b11b0","fromNode":"idx-node","fromSide":"bottom","toNode":"dir-node","toSide":"top"},
+		{"id":"758bfe3ff6ee93ec","fromNode":"idx-node","fromSide":"right","toNode":"alt-node","toSide":"left"},
+		{"id":"7ff2d902793927d2","fromNode":"idx-node","fromSide":"bottom","toNode":"abel-node","toSide":"top"},
+		{"id":"c8e31c40ab82fa10","fromNode":"idx-node","fromSide":"top","toNode":"a883e8406f5f6411","toSide":"bottom"}
+	]
+}

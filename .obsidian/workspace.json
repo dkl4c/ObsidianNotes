@@ -1,50 +1,36 @@
 {
   "main": {
-    "id": "dc8a7310dad217af",
+    "id": "ee43e95f7707b80f",
     "type": "split",
     "children": [
       {
-        "id": "64ddc8cd417389d1",
+        "id": "1081f71a52d7645f",
         "type": "tabs",
         "children": [
           {
-            "id": "abd4f29e02db846f",
+            "id": "7b6c1e5f0a1f3180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "电磁学/电容.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "高等数学/无穷级数.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": 490,
+                  "zoom": -0.4200266513665192
                 }
               },
-              "icon": "lucide-file",
-              "title": "电容"
-            },
-            "group": "33e4dc41fbe2e6f5"
-          }
-        ]
-      },
-      {
-        "id": "af8e93014a301342",
-        "type": "tabs",
-        "children": [
+              "icon": "lucide-layout-dashboard",
+              "title": "无穷级数"
+            }
+          },
           {
-            "id": "21a9ad74c7d37e67",
+            "id": "a5490059bbe3e2a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/电容.md",
+                "file": "高等数学/广义积分/Gamma 和 Beta 函数.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -59,38 +45,62 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "电容"
-            },
-            "group": "33e4dc41fbe2e6f5"
+              "title": "Gamma 和 Beta 函数"
+            }
+          },
+          {
+            "id": "9624a04d8511f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微电子/复习重点.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "复习重点"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7058fee57802987b",
+    "id": "846f23c060c29aa9",
     "type": "split",
     "children": [
       {
-        "id": "8e02cf8a740c5068",
+        "id": "2ec6ccd6d8546a53",
         "type": "tabs",
         "children": [
           {
-            "id": "7cf4ada5fd17bf9e",
+            "id": "84fd95fa15ff7742",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "95e3a77614dc7bd4",
+            "id": "b3b22247d07aab53",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,40 +113,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "6acd1a0ef4f9a9a1",
+            "id": "7c3e129f05ea6abc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 300
   },
   "right": {
-    "id": "6a947515ed122136",
+    "id": "5436f214511ece00",
     "type": "split",
     "children": [
       {
-        "id": "efeeb918f5352045",
+        "id": "9e92552455e3ed15",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e2636849ff263e",
+            "id": "99ee2b34bb5c5cea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,40 +155,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8cf6e353216babe1",
+            "id": "043d3bce8553d43a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电磁学/电容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "电容 的出链列表"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "025003b9ad504a01",
+            "id": "811ee56dbbcaa16a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "8e80e31401e3d62f",
+            "id": "6f3cf6e3d1693a35",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,26 +197,24 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
-            "id": "da86d58662e2d80c",
+            "id": "3bd73b8190cc56df",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,70 +223,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21a9ad74c7d37e67",
+  "active": "9624a04d8511f0ec",
   "lastOpenFiles": [
-    "电磁学/电极化强度和磁化强度相关的理论推导.md",
-    "电磁学/导体.md",
-    "电磁学/电场的能量和能量密度.md",
-    "电磁学/电容.md",
-    "电磁学/电容的能量.md",
-    "电磁学/带电体的能量.md",
-    "电磁学/电磁学的一些结论和例题推导/电偶极子在空间中的场强.md",
-    "电磁学/电磁学的一些结论和例题推导/几种常见带电体的电场.md",
+    "Pasted image 20260606215433.png",
+    "Pasted image 20260606212940.png",
+    "Pasted image 20260606212850.png",
+    "Pasted image 20260606201401.png",
+    "高等数学/广义积分/Gamma 和 Beta 函数.md",
+    "微电子/复习重点.md",
+    "微电子",
+    "Untitled.canvas",
+    "高等数学/广义积分/含参变量的正常积分.md",
+    "高等数学/广义积分/含参变量的广义积分.md",
+    "高等数学/广义积分/无穷积分.md",
+    "高等数学/广义积分/瑕积分.md",
+    "Pasted image 20260604151739.png",
+    "高等数学/无穷级数.canvas",
+    "高等数学/广义积分",
     "Pasted image 20260601182544.png",
-    "电磁学/电磁学的一些结论和例题推导/电偶极子在电场中的受力.md",
-    "电磁学/磁相关.md",
-    "电磁学/电磁学.md",
-    "电磁学/电磁感应.md",
-    "电磁学/电磁场的一些便于解题的性质.md",
-    "电磁学/电磁学的一些结论和例题推导",
-    "Pasted image 20260530215024.png",
-    "电磁学/作业/5、6章.md",
-    "Pasted image 20260530193945.png",
-    "Pasted image 20260530193547.png",
-    "Pasted image 20260530192515.png",
-    "Pasted image 20260530190350.png",
-    "Pasted image 20260530183954.png",
-    "未命名",
-    "电磁学/作业",
-    "线性代数/矩阵的运算/正交矩阵.md",
-    "电磁学",
-    "线性代数/矩阵的运算/矩阵的分块.md",
-    "线性代数/矩阵的运算/未命名",
-    "线性代数/矩阵的运算/可逆矩阵.md",
-    "线性代数/矩阵的运算/矩阵乘积的秩和行列式.md",
-    "线性代数/矩阵的运算/特殊矩阵.md",
-    "线性代数/矩阵的运算/矩阵的加法、数乘和乘法.md",
-    "线性代数/线性代数.md",
-    "线性代数/矩阵的运算",
-    "线性代数",
-    "体育理论课.md",
-    "无穷级数.canvas",
-    "无穷级数/无穷级数.md",
-    "第十章 无穷级数.md",
-    "无穷级数/函数项级数/幂级数.canvas",
-    "无穷级数/函数项级数.canvas",
-    "无穷级数/函数项级数/一致收敛的发散判定.md",
-    "无穷级数/任意项级数.canvas",
-    "无穷级数/正项级数.canvas",
-    "无穷级数/函数项级数/幂级数/泰勒级数.canvas",
-    "无穷级数/任意项级数/柯西乘积.md",
-    "正项级数.canvas",
-    "无穷级数/正项级数",
-    "无穷级数/函数项级数/幂级数",
-    "无穷级数/函数项级数",
-    "发散判定.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "高等数学"
   ]
 }
