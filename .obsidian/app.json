@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true
 }
