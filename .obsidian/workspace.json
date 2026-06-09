@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微电子/复习重点.md",
+                "file": "微电子/微电基期末.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "复习重点"
+              "title": "微电基期末"
             }
           }
         ]
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微电子/复习重点.md",
+                "file": "微电子/微电基期末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "复习重点 的出链列表"
+              "title": "微电基期末 的出链列表"
             }
           },
           {
