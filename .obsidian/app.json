@@ -1,7 +1,7 @@
 {
   "vimMode": true,
-  "livePreview": true,
-  "defaultViewMode": "preview",
+  "livePreview": false,
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "pageSize": "A4",
