@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/习题/6.3.md",
+                "file": "线性代数/习题/7.1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.3"
+              "title": "7.1"
             },
             "group": "2f4baf47702a39bd"
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/习题/6.3.md",
+                "file": "线性代数/习题/7.1.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.3"
+              "title": "7.1"
             },
             "group": "2f4baf47702a39bd"
           }
@@ -228,8 +228,9 @@
   },
   "active": "4a83d10ea3626e82",
   "lastOpenFiles": [
-    "线性代数/习题/6.2.md",
     "线性代数/习题/6.3.md",
+    "线性代数/习题/7.1.md",
+    "线性代数/习题/6.2.md",
     "线性代数/习题/6.1.md",
     "线性代数/习题/5.5.md",
     "线性代数/习题/5.4.md",
